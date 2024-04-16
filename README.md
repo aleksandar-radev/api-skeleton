@@ -1,16 +1,11 @@
-# game-api
+Api skeleton
 
-locally, work without docker
+using expressjs with typescript
 
-To start API run:
+using postrgresql as database ( but can actually use any of your choice)
 
-yarn && yarn dev
+knex as database management tool
 
-DATABASE:
+winston for logging
 
-run a docker container :)
-
-copy .env.dev to .env locally
-
-MANUALLY CREATE DB SCHEMA:
-create schema %name%;
+feel free to fork
